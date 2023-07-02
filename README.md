@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anandu-ajesh
-- 👀 I’m interested in 
+- 👀 I’m interested in CODING
 - 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 7994629613
 
 <!---
